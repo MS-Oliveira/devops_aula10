@@ -37,6 +37,22 @@
 -----------------------------------------------------------------  
 
 
+### _Comandos apresentados em aula_  
+
+docker images = List the most recently created images  
+
+docker pull = Pull an image from Docker Hub    
+
+docker ps -a = Show all containers (default shows just running)  
+
+docker run = Run a command in a new container  
+
+docker start = Start one or more stopped containers  
+
+
+### Listagem completa de comandos: https://docs.docker.com/engine/reference/commandline/docker/  
+
+
 
 
 
